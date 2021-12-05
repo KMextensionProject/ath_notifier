@@ -1,0 +1,8 @@
+com/crypto/main/Logo.class
+com/crypto/messaging/MessageSender.class
+com/crypto/ath/BitcoinATHStore.class
+com/crypto/http/CryptoRequest.class
+com/crypto/main/Main.class
+com/crypto/enums/Currency.class
+com/crypto/ath/ATHStore.class
+com/crypto/enums/Resources.class
